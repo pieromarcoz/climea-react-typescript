@@ -18,6 +18,9 @@
 .field ::placeholder {
     color: var(--white);
 }
+.form option{
+    color: #000;
+}
 
 .submit {
     background-color: var(--primary);
